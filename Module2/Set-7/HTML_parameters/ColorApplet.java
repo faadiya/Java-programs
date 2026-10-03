@@ -3,7 +3,7 @@ import java.awt.Graphics;
 import java.awt.Color;
 
 
-public class HTMLColorApplet extends Applet {
+public class ColorApplet extends Applet {
 
     String message;
     Color bg, fg;
