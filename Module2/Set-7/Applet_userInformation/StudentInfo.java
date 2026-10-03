@@ -1,7 +1,7 @@
 import java.applet.Applet;
 import java.awt.Graphics;
 
-public class Applet_userInformation extends Applet {
+public class StudentInfo extends Applet {
 
     String name, regno, course, semester;
 
