@@ -2,7 +2,7 @@ import java.applet.Applet;
 import java.awt.Graphics;
 
 
-public class Applet_Animation extends Applet implements Runnable {
+public class Animation extends Applet implements Runnable {
 
     int x = 0;
     Thread t;
